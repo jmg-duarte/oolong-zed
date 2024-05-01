@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="static/logo/logo.png" width=100/>
+  <img src="static/logo.png" width=100/>
 </p>
 
 # Oolong Zed Theme
