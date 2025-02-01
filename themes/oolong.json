@@ -44,7 +44,7 @@
         "tab_bar.background": "#072020",
         "tab.inactive_background": "#072020",
         "tab.active_background": "#072626",
-        "search.match_background": null,
+        "search.match_background": "#045677",
         "panel.background": "#072020",
         "panel.focused_border": null,
         "pane.focused_border": null,
