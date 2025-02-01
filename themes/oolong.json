@@ -111,7 +111,10 @@
         "hidden": null,
         "hidden.background": null,
         "hidden.border": null,
-        "hint": null,
+        // "hint" colors the git blame; only reference I found:
+        // https://github.com/zed-industries/zed/issues/10771#issuecomment-2298515403
+        // maybe this will break something else, but I don't really have a good way to test
+        "hint": "#9AE399a0",
         "hint.background": "#082B2B",
         "hint.border": "#0b3934",
         "ignored": null,
