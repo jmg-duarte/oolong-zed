@@ -18,7 +18,7 @@
         "surface.background": "#072020",
         "background": "#072626",
         "element.background": "#0b3934",
-        "element.hover": "#0A3D38",
+        "element.hover": "#034661d0",
         "element.active": null,
         "element.selected": "#0A3D38",
         "element.disabled": null,
